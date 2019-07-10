@@ -25,6 +25,11 @@ In July 2019 **Rob England** [reported](https://www.bbc.co.uk/news/uk-47879288) 
 * Pie chart: Outcomes of review requests, 2015 to 2018
 * Bar chart: Ten most common types of offences where public requests for a review were rejected because the crimes were "not in scheme"
 
+## Unused analysis
+
+The Sankey diagram below was generated to see how different types of cases flowed (top 7 categories only)
+
+![](https://raw.githubusercontent.com/BBC-Data-Unit/unduly-lenient-sentences/master/ULS%20sankey%20top%207.png)
 
 
 
