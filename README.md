@@ -10,6 +10,9 @@ In July 2019 **Rob England** [reported](https://www.bbc.co.uk/news/uk-47879288) 
 
 ## Get the data
 
+* Attorney General's Office: [Outcome of unduly lenient sentence referrals](https://www.gov.uk/government/statistical-data-sets/outcome-of-unduly-lenient-sentence-referrals)
+* ONS: [Crime in England and Wales: Appendix tables](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesappendixtables) - used for categorising crimes
+
 ## Quotes and interviews
 
 * Chris Boardman, Olympic cyclist whose mother was killed by a careless driver
