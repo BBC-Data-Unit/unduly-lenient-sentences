@@ -8,10 +8,13 @@ In July 2019 **Rob England** [reported](https://www.bbc.co.uk/news/uk-47879288) 
 
 > About a third of all requests, 1,148, were dismissed outright because the crimes committed were not eligible for review - something critics say has to change.
 
+The department had to re-release the 2016 data after some errors, so we had to combine two datasets (the one that is publicly available for that year, plus the revised FOI). There were also 30 sentences removed to avoid duplication.
+
 ## Get the data
 
 * Attorney General's Office: [Outcome of unduly lenient sentence referrals](https://www.gov.uk/government/statistical-data-sets/outcome-of-unduly-lenient-sentence-referrals)
 * ONS: [Crime in England and Wales: Appendix tables](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesappendixtables) - used for categorising crimes
+* Data from FOI, including analysis and cleaning: [XLS](https://github.com/BBC-Data-Unit/unduly-lenient-sentences/blob/master/ULS%20FINAL%20-%20June%202019.xlsx)
 
 ## Quotes and interviews
 
